@@ -8,7 +8,11 @@
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div><br>
   
-
+<div>
+  <a href="https://github.com/Doug-Silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doug-Silva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=7&theme=react"/>
+</div>
   
 <div>
   <a href="https://www.linkedin.com/in/douglas-s-silva/" target="_blank">
