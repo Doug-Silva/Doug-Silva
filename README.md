@@ -1,6 +1,6 @@
 # Hello! Welcome to my Github profile.
 
-Meu nome é Douglas, estou cursando Análise e Desenvolvimento de Sistemas.<br>
+Olá, meu nome é Douglas, estou cursando Análise e Desenvolvimento de Sistemas.<br>
 Sempre gostei da área de programação, atualmente também estou desenvolvendo projetos web Front-end com HTML CSS e JavaScript, buscando sempre me aprimorar cada vez mais na área de tecnologia.
 
 <div style="display: inline_block"><br>
