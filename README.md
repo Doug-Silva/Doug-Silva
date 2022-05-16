@@ -1,7 +1,7 @@
 # Hello! Welcome to my Github profile.
 
 Olá, meu nome é Douglas, estou cursando Análise e Desenvolvimento de Sistemas.<br>
-Atualmente também estou desenvolvendo projetos web Front-end com HTML CSS e JavaScript, buscando sempre me aprimorar cada vez mais na área de tecnologia.
+Atualmente também estou desenvolvendo projetos Web Front-end com HTML CSS e JavaScript, buscando sempre me aprimorar cada vez mais na área de tecnologia.
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Doug-Silva">
