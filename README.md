@@ -17,8 +17,8 @@ Atualmente também estou desenvolvendo projetos Web Front-end com HTML CSS e Jav
   
 <div>
   <a href="https://github.com/Doug-Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doug-Silva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=16&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doug-Silva&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=16&theme=nord"/>
 </div><br>
   
 <div>
