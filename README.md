@@ -1,7 +1,9 @@
-# Hello! Welcome to my Github profile.
+<div align="center">
+  <h1>Hello! Welcome to my Github</h1>
+</div>
 
-Olá, meu nome é Douglas, estou cursando Análise e Desenvolvimento de Sistemas.<br>
-Atualmente também estou desenvolvendo projetos Web Front-end com HTML CSS e JavaScript, buscando sempre me aprimorar cada vez mais na área de tecnologia.
+Meu nome é Douglas, estou cursando Análise e Desenvolvimento de Sistemas.<br>
+Atualmente também estou desenvolvendo projetos web Front-end, utilizado as tecnologias HTML, CSS, JavaScript e PHP, buscando sempre me aprimorar cada vez mais na área de tecnologia.
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Doug-Silva">
@@ -11,14 +13,12 @@ Atualmente também estou desenvolvendo projetos Web Front-end com HTML CSS e Jav
   <img align="center" alt="Bts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"/>
-    
-    
 </div><br>
   
 <div>
   <a href="https://github.com/Doug-Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doug-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Doug-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=16&theme=dark"/>
 </div><br>
   
 <div>
