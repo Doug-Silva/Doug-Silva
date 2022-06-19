@@ -15,7 +15,7 @@ Atualmente também estou desenvolvendo projetos web Front-end, utilizado as tecn
   <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"/>
 </div><br>
   
-<div>  
+<div align="center">  
 <a href="https://github.com/Doug-Silva">    
 <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Doug-Silva?cardType=github&theme=react"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=16&theme=react"/>
