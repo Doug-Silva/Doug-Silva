@@ -23,12 +23,6 @@ Atualmente também estou desenvolvendo projetos web Front-end, utilizado as tecn
 </div><br>
   
 <div>
-  <a href="https://github.com/Doug-Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doug-Silva&show_icons=true&theme=octocat&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=16&theme=octocat"/>
-</div><br>
-  
-<div>
   <a href="https://www.linkedin.com/in/douglas-s-silva/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href = "mailto:silvatec.br@gmail.com" target="_blank">
