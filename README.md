@@ -17,8 +17,8 @@ Atualmente também estou desenvolvendo projetos web Front-end, utilizado as tecn
   
 <div align="center">  
 <a href="https://github.com/Doug-Silva">    
-<img height="190em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Doug-Silva?cardType=github&theme=react"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=16&theme=react"/>
+<img height="200em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Doug-Silva?cardType=github&theme=react"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=16&theme=react"/>
 </a>
 </div><br>
   
