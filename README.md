@@ -14,21 +14,17 @@ Atualmente também estou desenvolvendo projetos web Front-end, utilizado as tecn
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"/>
 </div><br>
-
-<div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doug-Silva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=7&theme=blue-green"/>
+  
+<div>  
+<a href="https://github.com/Doug-Silva">    
+<img height="190em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Doug-Silva?cardType=github&theme=react"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=16&theme=react"/>
+</a>
 </div><br>
-
+  
 <div>
   <a href="https://www.linkedin.com/in/douglas-s-silva/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href = "mailto:silvatec.br@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</div>
-
-##
-
-<div align='center'>
-<a height="150em" href="http://www.github.com/Doug-Silva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Doug-Silva&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true"/></a>
 </div>
