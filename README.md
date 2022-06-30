@@ -18,7 +18,7 @@ Atualmente também estou desenvolvendo projetos web Front-end, utilizado as tecn
 <div align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doug-Silva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=7&theme=react"/>
-</div>
+</div><br>
   
 <div>
   <a href="https://www.linkedin.com/in/douglas-s-silva/" target="_blank">
