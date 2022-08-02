@@ -3,7 +3,7 @@
 </div>
 
 Meu nome é Douglas, estou cursando Análise e Desenvolvimento de Sistemas.<br>
-Atualmente também estou desenvolvendo projetos web Front-end, utilizado as tecnologias HTML, CSS, JavaScript e PHP, buscando sempre me aprimorar cada vez mais na área de tecnologia.
+Atualmente também estou desenvolvendo projetos web Front-end, utilizado as tecnologias HTML, CSS, JavaScript, buscando sempre me aprimorar cada vez mais na área de tecnologia.
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Doug-Silva">
