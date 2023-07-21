@@ -3,7 +3,7 @@
 </div>
 
 Meu nome é Douglas, estou cursando Análise e Desenvolvimento de Sistemas.<br>
-Desenvolvedor de software atuando com desenvolvimento Front-end, utilizado React, JavaScript, TypeScript, buscando sempre me aprimorar cada vez mais na área de tecnologia.
+Desenvolvedor de software atuando com desenvolvimento Front-end, utilizando React, JavaScript, TypeScript, buscando sempre me aprimorar cada vez mais na área de tecnologia.
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Doug-Silva">
