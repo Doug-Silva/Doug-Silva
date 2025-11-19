@@ -2,8 +2,7 @@
   <h1>Hello! Welcome to my Github</h1>
 </div>
 
-Meu nome é Douglas, estou cursando Análise e Desenvolvimento de Sistemas.<br>
-Desenvolvedor de software atuando com desenvolvimento Front-end, utilizando React, JavaScript, TypeScript, buscando sempre me aprimorar cada vez mais na área de tecnologia.
+Desenvolver de software, com experiência prática em desenvolvimento beckend com Java, Spring Boot e integração com banco de dados MySQL, além de conhecimentos em frontend utilizando HTML, CSS, Javascript, React e controle de versões com Git.
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Doug-Silva">
