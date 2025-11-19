@@ -2,7 +2,7 @@
   <h1>Hello! Welcome to my Github</h1>
 </div>
 
-Desenvolver de software, com experiência prática em desenvolvimento beckend com Java, Spring Boot e integração com banco de dados MySQL, além de conhecimentos em frontend utilizando HTML, CSS, Javascript, React e controle de versões com Git.
+Desenvolver de software, com experiência prática em desenvolvimento beckend com Java, Spring Boot e integração com banco de dados MySQL, além de conhecimentos em frontend utilizando HTML, CSS, JavaScript, React e controle de versões com Git.
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/Doug-Silva">
