@@ -5,7 +5,7 @@
 Desenvolvedor de software, com experiência prática em desenvolvimento beckend com Java, Spring Boot e integração com banco de dados MySQL, além de conhecimentos em frontend utilizando HTML, CSS, React, JavaScript e controle de versões com Git.
 
 <div style="display: inline_block">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=java,spring,html,css,react,javascript,mysql,git,github" />
   </a>
 </div><br>
