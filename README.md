@@ -4,7 +4,7 @@
 
 Desenvolvedor de software, com experiência prática em desenvolvimento beckend com Java, Spring Boot e integração com banco de dados MySQL, além de conhecimentos em frontend utilizando HTML, CSS, React, JavaScript e controle de versões com Git.
 
-<div style="display: inline_block">
+<div align='center'>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,spring,html,css,react,javascript,mysql,git,github" />
   </a>
@@ -15,7 +15,7 @@ Desenvolvedor de software, com experiência prática em desenvolvimento beckend 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Silva&layout=compact&langs_count=7&theme=react"/>
 </div><br>
   
-<div>
+<div align='center'>
   <a href="https://www.linkedin.com/in/douglas-s-silva/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href = "mailto:silvatec.br@gmail.com">
