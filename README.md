@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Hello! Welcome to my Github</h1>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8470FF&height=120&section=header"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8470FF&size=35&center=true&vCenter=true&width=1000&lines=Hello!+Welcome+to+my+Github;Software+Developer)](https://git.io/typing-svg)
   <p align='left'>Desenvolvedor de software, com experiência prática em desenvolvimento beckend com Java, Spring Boot e integração com banco de dados MySQL, além de conhecimentos em frontend utilizando HTML, CSS, React, JavaScript e controle de versões com Git.</p>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,spring,html,css,react,javascript,mysql,git" /><br><br>
